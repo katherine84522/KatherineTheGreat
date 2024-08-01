@@ -8,7 +8,7 @@ module.exports = {
   defaultNetwork: "sepolia",
   networks: {
     hardhat: {},
-    seplolia:{
+    sepolia:{
       url: process.env.ALCHEMY_SEPOLIA_ENDPOINT,
       accounts : [process.env.PRIVATE_KEY]
     },
