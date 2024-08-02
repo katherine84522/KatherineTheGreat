@@ -18,6 +18,8 @@
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.0.1",
     "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.2",
+    "fs": "^0.0.1-security",
     "web3-eth-accounts": "^4.1.3"
   }
 }
